@@ -1,28 +1,29 @@
 .bg-primary{
-    background-color: #383e56;
+    background-color: #f69e7b;
 }
-
-.bg-secondary{
-    background-color: #f69ef6;
+.bg-secundary{
+    background-color: #523d35;
 }
-
 .text-center{
     text-align: center;
 }
-
-.text-ligt{
-    color: #eedaee;
+.text-light{
+    color: #611c2b;
 }
-
-.text-info {
-    color:#f69ef6;
+.text-info{
+    color: #ece5e4;
 }
-
-.w-200{
+.w-200 {
     width: 200px;
 }
-
 .text-primary{
-    color:aqua;
+    color: rgb(29, 21, 21);
 }
-
+.text-white{
+    color: #fff;
+}
+.button-info{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
